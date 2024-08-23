@@ -22,7 +22,8 @@ This is my first app that i made for Final Project for Data Analytics Dicoding U
 |   └──Screenshot 2024-08-23 154446.png
 ├── Proyek_Analisis_Data.ipynb
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+└── url.txt
 ```
 ## 2. Project work cycle
 ### Data Wrangling:
