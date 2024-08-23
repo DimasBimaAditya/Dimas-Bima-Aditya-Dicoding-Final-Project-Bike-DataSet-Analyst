@@ -13,11 +13,11 @@ st.text('Hope You Liked It :)')
 
 
 #IMPORT DATA SET
-day_df = pd.read_csv("Dashboard/day.csv")
-hour_df = pd.read_csv("D:/Codingan/Dashboard/hour.csv")
+day_df = pd.read_csv("D:/Submission/Dashboard/day.csv")
+hour_df = pd.read_csv("D:/Submission/Dashboard/hour.csv")
  
 with st.sidebar:
-        st.image('D:/Codingan/Dashboard/Masdim.png')
+        st.image('D:/Submission/Dashboard/Masdim.png')
         st.title('YOUR TRUSTED RENTS PLACE')
 
 #REPLACING THE WRONG DATA TYPE OF A DATASET COMPONENT
