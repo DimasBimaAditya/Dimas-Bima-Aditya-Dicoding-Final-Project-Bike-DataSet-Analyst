@@ -13,7 +13,7 @@ st.text('Hope You Liked It :)')
 
 
 #IMPORT DATA SET
-day_df = pd.read_csv("D:/Codingan/Dashboard/day.csv")
+day_df = pd.read_csv("Dashboard/day.csv")
 hour_df = pd.read_csv("D:/Codingan/Dashboard/hour.csv")
  
 with st.sidebar:
