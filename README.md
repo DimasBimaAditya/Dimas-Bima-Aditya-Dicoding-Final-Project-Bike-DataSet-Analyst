@@ -20,8 +20,8 @@ This is my first app that i made for Final Project for Data Analytics Dicoding U
 |   ├──Screenshot 2024-08-23 154424.png
 |   ├──Screenshot 2024-08-23 154438.png
 |   └──Screenshot 2024-08-23 154446.png
-├── README.md
 ├── Proyek_Analisis_Data.ipynb
+├── README.md
 └── requirements.txt
 ```
 ## 2. Project work cycle
